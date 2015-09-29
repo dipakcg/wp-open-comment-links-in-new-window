@@ -4,7 +4,7 @@ Tags: open, links, new tab, new window, comments, author url, target blank, blan
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3S8BRPLWLNQ38
 Requires at least: 3.5
 Tested up to: 4.3.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,5 +36,8 @@ No.
 Pretty much, yeah.
 
 == Changelog ==
+= 1.1, Sept 29, 2015 =
+* Updated WordPress compatibility
+
 = 1.0, Oct 18, 2014 =
 * Initial release
