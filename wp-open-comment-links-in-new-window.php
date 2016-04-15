@@ -4,8 +4,8 @@ Plugin Name: WP Open Comment Links in New Window
 Plugin URI: https://github.com/dipakcg/wp-open-comment-links-in-new-window
 Description: Opens all the links (URLs) added in the comments and author URL, in a new tab or window.
 Author: Dipak C. Gajjar
-Version: 1.0
-Author URI: http://www.dipakgajjar.com/
+Version: 1.1
+Author URI: https://dipakgajjar.com
 */
 
 function open_in_new_window($text) {
