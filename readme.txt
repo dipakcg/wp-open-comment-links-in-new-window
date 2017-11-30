@@ -3,8 +3,8 @@ Contributors: dipakcg
 Tags: open, links, new tab, new window, comments, author url, target blank, blank, external-links, target new
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3S8BRPLWLNQ38
 Requires at least: 3.5
-Tested up to: 4.7
-Stable tag: 1.1
+Tested up to: 4.9
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -40,9 +40,11 @@ No.
 Pretty much, yeah.
 
 == Changelog ==
+= 1.2, November 30, 2017 =
+* Updated function to avoid any conflict
 
-= 1.1, Sept 29, 2015 =
+= 1.1, September 29, 2015 =
 * Updated WordPress compatibility
 
-= 1.0, Oct 18, 2014 =
+= 1.0, October 18, 2014 =
 * Initial release
